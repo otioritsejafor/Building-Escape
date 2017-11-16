@@ -6,4 +6,6 @@
 */Intermediate
 */Saved
 
-# BuildingEscape/Content/StarterContent/#
+BuildingEscape/Content/StarterContent/
+**/xcuserdata
+contents.xcworkspacedata
