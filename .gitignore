@@ -9,3 +9,6 @@
 BuildingEscape/Content/StarterContent/
 **/xcuserdata
 contents.xcworkspacedata
+
+##########################
+*.ini
